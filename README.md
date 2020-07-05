@@ -43,6 +43,11 @@ $ feathers help                           # Show all commands
 
 Kindly find the collection [node-backend.postman_collection.json](https://github.com/kadamsan/node-backend/blob/master/node-backend.postman_collection.json)
 
+## Database and Collection MongoDB
+
+Database: mean
+Collections: users, assets 
+
 
 ## Help
 
