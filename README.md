@@ -39,6 +39,12 @@ $ feathers generate service               # Generate a new Service
 $ feathers generate hook                  # Generate a new Hook
 $ feathers help                           # Show all commands
 ```
+## Postman collection
+
+Kindly find the collection "node-backend.postman_collection.json"
+
+For more information on all the things you can do with Feathers visit [docs.feathersjs.com](http://docs.feathersjs.com).
+
 
 ## Help
 
