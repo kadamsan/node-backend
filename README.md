@@ -41,9 +41,7 @@ $ feathers help                           # Show all commands
 ```
 ## Postman collection
 
-Kindly find the collection "node-backend.postman_collection.json"
-
-For more information on all the things you can do with Feathers visit [docs.feathersjs.com](http://docs.feathersjs.com).
+Kindly find the collection [node-backend.postman_collection.json](https://github.com/kadamsan/node-backend/blob/master/node-backend.postman_collection.json)
 
 
 ## Help
