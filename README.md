@@ -6,6 +6,8 @@
 
 This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
 
+[![Run on Repl.it](https://repl.it/badge/github/kadamsan/node-backend)](https://repl.it/github/kadamsan/node-backend)
+
 ## Getting Started
 
 Getting up and running is as easy as 1, 2, 3.
